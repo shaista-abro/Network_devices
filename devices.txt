@@ -1,0 +1,8 @@
+6
+7
+1|Redme A2+|192.168.1.2|Smart phone|Active
+2|pc1|192.168.1.1|computer|Active
+3|router|192.168.1.3|router|Active
+4|switch|192.168.1.4|switch|Active
+5|realme|192.168.1.5|smartphone|Active
+6|hp|192.168.1.6|laptop|Active

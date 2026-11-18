@@ -1,0 +1,51 @@
+========================================
+       NETWORK DEVICE & IP REPORT
+========================================
+
+Total Devices: 6
+Active Devices: 6
+Inactive Devices: 0
+
+DEVICE DETAILS
+
+Device ID: 1
+Name: Redme A2+
+IP: 192.168.1.2
+Type: Smart phone
+Status: Active
+
+Device ID: 2
+Name: pc1
+IP: 192.168.1.1
+Type: computer
+Status: Active
+
+Device ID: 3
+Name: router
+IP: 192.168.1.3
+Type: router
+Status: Active
+
+Device ID: 4
+Name: switch
+IP: 192.168.1.4
+Type: switch
+Status: Active
+
+Device ID: 5
+Name: realme
+IP: 192.168.1.5
+Type: smartphone
+Status: Active
+
+Device ID: 6
+Name: hp
+IP: 192.168.1.6
+Type: laptop
+Status: Active
+
+MAINTENANCE RECORDS
+
+Device ID: 1
+Date: 16
+Description: best movile ever
