@@ -3,8 +3,8 @@
 ========================================
 
 Total Devices: 6
-Active Devices: 6
-Inactive Devices: 0
+Active Devices: 5
+Inactive Devices: 1
 
 DEVICE DETAILS
 
@@ -12,12 +12,6 @@ Device ID: 1
 Name: Redme A2+
 IP: 192.168.1.2
 Type: Smart phone
-Status: Active
-
-Device ID: 2
-Name: pc1
-IP: 192.168.1.1
-Type: computer
 Status: Active
 
 Device ID: 3
@@ -44,8 +38,18 @@ IP: 192.168.1.6
 Type: laptop
 Status: Active
 
+Device ID: 7
+Name: Realme
+IP: 192.168.10.1
+Type: Mobile
+Status: Inactive
+
 MAINTENANCE RECORDS
 
 Device ID: 1
 Date: 16
 Description: best movile ever
+
+Device ID: 7
+Date: 20-11-2026
+Description: Panel Change
